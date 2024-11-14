@@ -4,10 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        My name is Sophie Vermeulen and moving the needle is second nature to
-        me. With a focus mainly on blackwork and dotwork, I create intricate and
-        mesmerizing designs that push the boundaries of tattoo art.
+      text: My name is Sophie Vermeulen and moving the needle is secon
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
