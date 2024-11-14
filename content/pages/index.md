@@ -4,7 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        My name is Sophie Vermeulen and moving the needle is second nature to
+        me. With a focus mainly on blackwork and dotwork, I create intricate and
+        mesmerizing designs that push the boundaries of tattoo art.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
