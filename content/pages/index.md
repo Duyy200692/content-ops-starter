@@ -380,7 +380,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/Screenshot 2024-11-15 135504.png
       altText: Dope design preview
       type: ImageBlock
     badge:
