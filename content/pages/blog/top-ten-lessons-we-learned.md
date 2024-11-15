@@ -26,9 +26,62 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+# Chăm sóc da sau khi điêu khắc chân mày là một bước vô cùng quan trọng để đảm bảo kết quả thẩm mỹ đạt được hiệu quả cao và lâu dài. Dưới đây là những lưu ý bạn nên thực hiện:
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+# **Trong những ngày đầu:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+# **Tránh tiếp xúc với nước:** Không nên rửa mặt trực tiếp vùng chân mày trong 2-3 ngày đầu.
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+# **Không trang điểm:** Tránh sử dụng các loại mỹ phẩm, đặc biệt là vùng chân mày.
+
+# **Vệ sinh nhẹ nhàng:** Lau nhẹ nhàng vùng chân mày bằng bông gòn sạch đã thấm nước muối sinh lý.
+
+# **Không sờ tay lên vùng chân mày:** Vi khuẩn từ tay có thể gây nhiễm trùng.
+
+# **Uống nhiều nước:** Giúp cơ thể đào thải độc tố và nhanh lành vết thương.
+
+# **Những ngày tiếp theo:**
+
+# **Bôi thuốc theo chỉ dẫn:** Bác sĩ sẽ kê đơn thuốc kháng sinh hoặc thuốc mỡ để bôi lên vùng chân mày. Tuân thủ đúng hướng dẫn.
+
+# **Tránh các hoạt động mạnh:** Không nên tập thể dục quá sức, tránh đổ mồ hôi nhiều.
+
+# **Bảo vệ chân mày khỏi ánh nắng mặt trời:** Nên đội mũ, đeo kính râm khi ra ngoài.
+
+# **Chế độ ăn uống:** Bổ sung nhiều rau xanh, trái cây, vitamin để tăng cường sức đề kháng.
+
+# **Tránh các chất kích thích:** Không hút thuốc, uống rượu bia.
+
+# **Lưu ý:**
+
+# **Tái khám:** Đến tái khám theo lịch hẹn của bác sĩ để kiểm tra tình hình và được tư vấn cách chăm sóc phù hợp.
+
+# **Không tự ý nặn vảy:** Để các vảy bong tự nhiên, nếu nặn có thể để lại sẹo.
+
+# **Chọn cơ sở uy tín:** Việc lựa chọn một cơ sở thẩm mỹ uy tín với đội ngũ kỹ thuật viên giàu kinh nghiệm là rất quan trọng.
+
+# **Những điều cần tránh:**
+
+# **Tắm hơi, xông hơi:** Gây ra mồ hôi nhiều, làm ảnh hưởng đến quá trình lành thương.
+
+# **Đi bơi:** Nước hồ bơi chứa nhiều hóa chất có thể gây kích ứng da.
+
+# **Ngủ úp mặt:** Gây ma sát và làm trôi màu mực xăm.
+
+# **Một số hình ảnh minh họa:**
+
+# **Với những thông tin trên, hi vọng bạn sẽ có một quá trình chăm sóc chân mày sau khi điêu khắc hiệu quả và đạt được kết quả như mong muốn.**
+
+#
+
+#
+
+# **Nếu bạn còn bất kỳ thắc mắc nào, đừng ngần ngại đặt câu hỏi nhé!**
+
+# **Bạn có muốn biết thêm về các vấn đề liên quan đến điêu khắc chân mày không?**
+
+
+
+
+
+
