@@ -53,7 +53,7 @@ postFeed:
   colors: bg-light-fg-dark
   hoverEffect: move-up
 ---
-# Chăm sóc da sau khi điêu khắc chân mày là một bước vô cùng quan trọng để đảm bảo kết quả thẩm mỹ đạt được hiệu quả cao và lâu dài. Dưới đây là những lưu ý bạn nên thực hiện:
+###### Chăm sóc da sau khi điêu khắc chân mày là một bước vô cùng quan trọng để đảm bảo kết quả thẩm mỹ đạt được hiệu quả cao và lâu dài. Dưới đây là những lưu ý bạn nên thực hiện:
 
 # **Trong những ngày đầu:**
 
@@ -99,13 +99,7 @@ postFeed:
 
 # **Với những thông tin trên, hi vọng bạn sẽ có một quá trình chăm sóc chân mày sau khi điêu khắc hiệu quả và đạt được kết quả như mong muốn.**
 
-#
-
-#
-
 # **Nếu bạn còn bất kỳ thắc mắc nào, đừng ngần ngại đặt câu hỏi nhé!**
 
 # **Bạn có muốn biết thêm về các vấn đề liên quan đến điêu khắc chân mày không?**
-
-
 
