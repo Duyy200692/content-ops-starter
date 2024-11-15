@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Screenshot 2024-11-15 132322.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -345,7 +345,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Screenshot 2024-11-15 132404.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -610,7 +610,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2024-11-15 132350.png
           altText: Placeholder Image
           styles:
             self:
@@ -633,7 +633,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot 2024-11-15 132404.png
           altText: Placeholder image
           styles:
             self:
@@ -657,7 +657,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2024-11-15 132422.png
           altText: Placeholder image
           styles:
             self:
