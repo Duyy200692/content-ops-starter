@@ -345,7 +345,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Screenshot 2024-11-15 132404.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
