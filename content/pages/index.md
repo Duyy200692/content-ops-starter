@@ -380,7 +380,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/Screenshot 2024-11-15 135504.png
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -610,12 +610,12 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/Screenshot 2024-11-15 132350.png
           altText: Placeholder Image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
+          url: /images/Screenshot 2024-11-15 132350.png
         colors: bg-light-fg-dark
         styles:
           self:
