@@ -72,10 +72,6 @@ author: content/data/person1.json
 
 ##### **Với những thông tin trên, hi vọng bạn sẽ có một quá trình chăm sóc chân mày sau khi điêu khắc hiệu quả và đạt được kết quả như mong muốn.**
 
-#####
-
-#####
-
 ##### **Nếu bạn còn bất kỳ thắc mắc nào, đừng ngần ngại đặt câu hỏi nhé!**
 
 ##### **Bạn có muốn biết thêm về các vấn đề liên quan đến điêu khắc chân mày không?**
