@@ -615,7 +615,7 @@ sections:
             self:
               borderRadius: x-large
           type: ImageBlock
-          url: /images/Screenshot 2024-11-15 132350.png
+          url: /images/Screenshot 2024-11-15 135504.png
         colors: bg-light-fg-dark
         styles:
           self:
