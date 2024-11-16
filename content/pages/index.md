@@ -9,11 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-      My name is Sophie Vermeulen and moving the needle is second nature to me.
-      With a focus mainly on blackwork and dotwork, I create intricate and
-      mesmerizing designs that push the boundaries of tattoo art.
-
-
+      ##### Tên tôi là Sophie Vermeulen và việc di chuyển kim tiêm là bản năng
+      thứ hai đối với tôi. Với sự tập trung chủ yếu vào blackwork và dotwork,
+      tôi tạo ra những thiết kế phức tạp và đầy mê hoặc, vượt qua ranh giới của
+      nghệ thuật xăm hình.
 
     actions:
       - label: Get started
