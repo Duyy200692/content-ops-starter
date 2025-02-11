@@ -94,10 +94,10 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Nhưng để bạn có thể thấy tất cả những sai lầm này phát sinh từ đâu bởi
+          những người buộc tội niềm vui và ca ngợi nỗi đau, tôi sẽ kể lại toàn
+          bộ vấn đề và chính những điều đó. Tôi sẽ giải thích.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
