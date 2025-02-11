@@ -238,11 +238,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >2+
+       Vanci\_Beauty
+
+      Chuyên Nối mi và tư vấn, thiết kế dáng mi đa dạng phù hợp với từng khuôn
+      mặt, dáng mắt, các kiểu mi từ nhẹ nhàng tự nhiên đến những kiểu mi thiết
+      kế hot nhất hiện nay.  
+
+
+      Chuyên Uốn Mi (Lash Lift), mi mắt ướt, mi cong Thái, mi cong Foxy ấn tượng
+      cá tính  Chuyên Định Hình Chân Mày (Brow Lamination)
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
