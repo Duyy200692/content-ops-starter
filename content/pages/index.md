@@ -66,10 +66,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Nhưng để bạn có thể thấy tất cả những sai lầm này phát sinh từ đâu bởi
+          những người buộc tội niềm vui và ca ngợi nỗi đau, tôi sẽ kể lại toàn
+          bộ vấn đề và chính những điều đó. Tôi sẽ giải thích.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -94,10 +94,10 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Nhưng để bạn có thể thấy tất cả những sai lầm này phát sinh từ đâu bởi
+          những người buộc tội niềm vui và ca ngợi nỗi đau, tôi sẽ kể lại toàn
+          bộ vấn đề và chính những điều đó. Tôi sẽ giải thích.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -119,10 +119,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Nhưng để bạn có thể thấy tất cả những sai lầm này phát sinh từ đâu bởi
+          những người buộc tội niềm vui và ca ngợi nỗi đau, tôi sẽ kể lại toàn
+          bộ vấn đề và chính những điều đó. Tôi sẽ giải thích.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -238,11 +238,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >2+
+       Vanci\_Beauty
+
+      Chuyên Nối mi và tư vấn, thiết kế dáng mi đa dạng phù hợp với từng khuôn
+      mặt, dáng mắt, các kiểu mi từ nhẹ nhàng tự nhiên đến những kiểu mi thiết
+      kế hot nhất hiện nay.  
+
+
+      Chuyên Uốn Mi (Lash Lift), mi mắt ướt, mi cong Thái, mi cong Foxy ấn tượng
+      cá tính  Chuyên Định Hình Chân Mày (Brow Lamination)
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
