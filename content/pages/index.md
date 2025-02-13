@@ -725,7 +725,7 @@ sections:
           </div>
 
         features:
-          - ' Học lý thuyết song song với thực hành, lộ trình học tập rất rõ ràng.'
+          - ' Chương trình giảng dạy linh hoạt theo thời khoá biểu từng học viên.'
           - ' Học lý thuyết song song với thực hành, lộ trình học tập rất rõ ràng.'
           - >-
             hổ trợ tuyển mẫu thực hành xuyên suốt trong khoá học, không giới hạn
