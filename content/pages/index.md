@@ -727,7 +727,7 @@ sections:
         features:
           - Feature one
           - Feature two
-          - Feature three
+          - Cam kết các bạn sẽ nắm vững kiến thức và kỹ thuật. Tự tin làm nghề
           - Feature four
         image:
           type: ImageBlock
