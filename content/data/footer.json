@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "<div style=\"text-align: left\">Vanci\\_Beauty by Thao Van Phan Acadermy\nCs1:1a\\_1bNguyễn Đình Chiểu, Dakao, Quận 1Cs2: Buôn Ma Thuột, Daklak</div>\n\nHotline: 0862414206\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -61,15 +61,15 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "instagram link",
+            "url": "https://www.instagram.com/vanci.beauty?fbclid=IwY2xjawIX9TpleHRuA2FlbQIxMAABHQcIQ2q04hfmddgcwGv2R0gHhXS2k7pvlKMSCJxMXD-08TOTltJOXIqp8g_aem_2An1VhgsvzWThD5EYyGbHw",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=61571145550252",
+            "icon": "facebook",
             "type": "Social"
         },
         {

@@ -692,6 +692,127 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Flexible Pricing
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: This is the subtitle for the pricing section
+    plans:
+      - type: PricingPlan
+        title: Developers
+        price: $300
+        details: No credit card required
+        description: >+
+          <div style="text-align: left">KHOÁ HỌC NỐI MI - BROW LAMINATION - UỐN
+          MI![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png)
+          Học 1:1 với giáo viên, chính Vanci sẽ trực tiếp đứng lớp hướng dẫn và
+          kèm sát các bạn trong suốt khoá học. 
+
+
+          </div>
+
+        features:
+          - ' Chương trình giảng dạy linh hoạt theo thời khoá biểu từng học viên.'
+          - ' Học lý thuyết song song với thực hành, lộ trình học tập rất rõ ràng.'
+          - >-
+            hổ trợ tuyển mẫu thực hành xuyên suốt trong khoá học, không giới hạn
+            mẫu thực hành, không tốn phí mẫu.
+          - Cam kết các bạn sẽ nắm vững kiến thức và kỹ thuật. Tự tin làm nghề
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: contact us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Professional
+        price: $99
+        details: per month
+        description: >-
+          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
+          accusantium doloremque.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Enterprise
+        price: Custom
+        details: per month
+        description: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+          - Feature five
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Pricing plan 3
+        actions:
+          - type: Button
+            label: Contact us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Generic Section With A Form
       color: text-dark
