@@ -708,7 +708,7 @@ sections:
         details: No credit card required
         description: >+
           <div style="text-align: left">KHOÁ HỌC NỐI MI - BROW LAMINATION - UỐN
-          MIHọc 1:1 với giáo viên, chính Vanci sẽ trực tiếp đứng lớp hướng dẫn
+          MI. Học 1:1 với giáo viên, chính Vanci sẽ trực tiếp đứng lớp hướng dẫn
           và kèm sát các bạn trong suốt khoá học.</div>
 
         features:
