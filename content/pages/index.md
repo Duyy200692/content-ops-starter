@@ -725,7 +725,7 @@ sections:
           </div>
 
         features:
-          - Feature one
+          - ' Học lý thuyết song song với thực hành, lộ trình học tập rất rõ ràng.'
           - >-
             hổ trợ tuyển mẫu thực hành xuyên suốt trong khoá học, không giới hạn
             mẫu thực hành, không tốn phí mẫu.
