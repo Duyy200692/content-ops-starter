@@ -704,7 +704,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Developers
-        price: KHOÁ HỌC NỐI MI - BROW LAMINATION - UỐN MI
+        price: $300
         details: No credit card required
         description: >+
           <div style="text-align: left">KHOÁ HỌC NỐI MI - BROW LAMINATION - UỐN
