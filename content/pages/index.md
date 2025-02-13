@@ -726,7 +726,9 @@ sections:
 
         features:
           - Feature one
-          - Feature two
+          - >-
+            hổ trợ tuyển mẫu thực hành xuyên suốt trong khoá học, không giới hạn
+            mẫu thực hành, không tốn phí mẫu.
           - Cam kết các bạn sẽ nắm vững kiến thức và kỹ thuật. Tự tin làm nghề
           - Feature four
         image:
