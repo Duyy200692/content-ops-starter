@@ -706,9 +706,24 @@ sections:
         title: Developers
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          <div style="text-align: left">KHOÁ HỌC NỐI MI - BROW LAMINATION - UỐN
+          MI![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png)
+          Học 1:1 với giáo viên, chính Vanci sẽ trực tiếp đứng lớp hướng dẫn và
+          kèm sát các bạn trong suốt khoá học.
+          ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png)
+          Chương trình giảng dạy linh hoạt theo thời khoá biểu từng học
+          viên.![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png)
+          Học lý thuyết song song với thực hành, lộ trình học tập rất rõ ràng.
+          ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png)hổ
+          trợ tuyển mẫu thực hành xuyên suốt trong khoá học, không giới hạn mẫu
+          thực hành, không tốn phí
+          mẫu.![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png)
+          Cam kết các bạn sẽ nắm vững kiến thức và kỹ thuật. Tự tin làm nghề
+
+
+          </div>
+
         features:
           - Feature one
           - Feature two
