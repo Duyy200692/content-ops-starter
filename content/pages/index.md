@@ -7,7 +7,7 @@ sections:
       text: Vanci.beauty
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Thao Van Phan
     text: >
       Chào mừng bạn đến với thế giới làm đẹp của tôi! Tôi là Thảo Vân Phan với
       thương hiệu vanci.beauty, một người có đam mê với việc giúp mọi người khám
