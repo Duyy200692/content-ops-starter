@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: My name is Sophie Vermeulen
+      text: Vanci.beauty
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
