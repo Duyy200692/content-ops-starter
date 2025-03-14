@@ -4,16 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: My name is Sophie Vermeulen
+      text: Vanci.beauty
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >+
-      ##### Tên tôi là Sophie Vermeulen và việc di chuyển kim tiêm là bản năng
-      thứ hai đối với tôi. Với sự tập trung chủ yếu vào blackwork và dotwork,
-      tôi tạo ra những thiết kế phức tạp và đầy mê hoặc, vượt qua ranh giới của
-      nghệ thuật xăm hình.
-
+    subtitle: Thao Van Phan
+    text: >
+      Chào mừng bạn đến với thế giới làm đẹp của tôi! Tôi là Thảo Vân Phan với
+      thương hiệu vanci.beauty, một người có đam mê với việc giúp mọi người khám
+      phá và tôn vinh vẻ đẹp riêng của mình. Với những kinh nghiệm, tôi đã có cơ
+      hội làm việc với nhiều khách hàng và giúp họ đạt được những kết quả tuyệt
+      vời.
     actions:
       - label: Get started
         altText: ''
