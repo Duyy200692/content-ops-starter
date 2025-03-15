@@ -53,173 +53,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedItemsSection
-    title:
-      text: Lợi ích chính
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >
-          Nhưng để bạn có thể thấy tất cả những sai lầm này phát sinh từ đâu bởi
-          những người buộc tội niềm vui và ca ngợi nỗi đau, tôi sẽ kể lại toàn
-          bộ vấn đề và chính những điều đó. Tôi sẽ giải thích.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >
-          Nhưng để bạn có thể thấy tất cả những sai lầm này phát sinh từ đâu bởi
-          những người buộc tội niềm vui và ca ngợi nỗi đau, tôi sẽ kể lại toàn
-          bộ vấn đề và chính những điều đó. Tôi sẽ giải thích.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >
-          Nhưng để bạn có thể thấy tất cả những sai lầm này phát sinh từ đâu bởi
-          những người buộc tội niềm vui và ca ngợi nỗi đau, tôi sẽ kể lại toàn
-          bộ vấn đề và chính những điều đó. Tôi sẽ giải thích.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -328,13 +161,13 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: DIODE LASER
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Triệt lông siêu hot
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Triệt lông công nghệ cao: Hiệu quả gấp bội, không đau rát, tự tin tỏa sáng
+      làn da mịn màng!
     actions:
       - label: Get started
         url: /
@@ -350,11 +183,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Screenshot 2024-11-15 132404.png
+      url: /images/Frame 46.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Vanci beauty
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
