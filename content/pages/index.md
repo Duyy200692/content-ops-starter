@@ -161,7 +161,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Diode laser
+      text: DIODE LASER
       color: text-dark
       type: TitleBlock
     subtitle: Triệt lông siêu hot
