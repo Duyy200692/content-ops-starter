@@ -166,8 +166,8 @@ sections:
       type: TitleBlock
     subtitle: Triệt lông siêu hot
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Triệt lông công nghệ cao: Hiệu quả gấp bội, không đau rát, tự tin tỏa sáng
+      làn da mịn màng!
     actions:
       - label: Get started
         url: /
