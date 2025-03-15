@@ -161,7 +161,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Cộng nghệ
+      text: Diode laser
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
