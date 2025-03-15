@@ -161,7 +161,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Cộng nghệ
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
