@@ -187,7 +187,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Vanci beauty
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
