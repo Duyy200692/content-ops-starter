@@ -236,7 +236,7 @@ sections:
       type: TitleBlock
       text: "\bĐón Hè Rực Rỡ"
       color: text-dark
-    subtitle: Be in good company
+    subtitle: yêu chiều bản thân
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
