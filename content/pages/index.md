@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '/https://www.facebook.com/profile.php?id=61571145550252'
         showIcon: false
         icon: arrowRight
         iconPosition: right
