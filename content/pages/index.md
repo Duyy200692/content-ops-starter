@@ -200,9 +200,27 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |+
+      **Các dịch vụ chính:**
+
+      *   **Điêu khắc siêu sợi:**
+
+          *   Đây là kỹ thuật tạo dáng lông mày tự nhiên nhất hiện nay, sử dụng dao khắc chuyên dụng để tạo từng sợi lông mày giả xen kẽ với lông mày thật.
+
+          *   Phù hợp với những người có lông mày thưa, nhạt màu hoặc muốn tạo dáng lông mày sắc nét, tự nhiên.
+
+      *   **Phun mày tản bột/chạm hạt:**
+
+          *   Kỹ thuật này sử dụng máy phun xăm với đầu kim siêu nhỏ để đưa mực vào lớp thượng bì của da, tạo hiệu ứng lông mày mịn màng như trang điểm bằng bột hoặc hiệu ứng chạm hạt 3D.
+
+          *   Phù hợp với những người thích dáng lông mày đậm nét, có độ chuyển màu tự nhiên.
+
+      *   **Phun môi by Lip:**
+
+          *   Đây là kỹ thuật phun môi độc quyền, giúp tạo màu môi tươi tắn, căng mọng và bền màu.
+
+          *   Có nhiều màu sắc và kỹ thuật phun khác nhau để phù hợp với từng khuôn môi và sở thích của khách hàng.
+
     actions:
       - label: Get started
         url: /
