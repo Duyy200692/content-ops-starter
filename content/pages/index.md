@@ -399,7 +399,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Developers
-        price: $300
+        price: Nhận tư vấn
         details: No credit card required
         description: >+
           <div style="text-align: left">KHOÁ HỌC NỐI MI - BROW LAMINATION - UỐN
