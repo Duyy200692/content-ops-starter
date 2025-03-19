@@ -462,8 +462,7 @@ sections:
 
               *   Có nhiều màu sắc và kỹ thuật phun khác nhau để phù hợp với từng khuôn môi và sở thích của khách hàng.
 
-        features:
-          - Feature three
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
