@@ -402,12 +402,11 @@ sections:
         price: Nhận tư vấn
         details: No credit card required
         description: >+
-          <div style="text-align: left">**khóa học nối mi, Brow Lamination và
-          uốn mi****Điểm nổi bật của khóa học:***   **Học 1:1 với giáo viên:**
-
-              *   Bạn sẽ được Vanci trực tiếp hướng dẫn và kèm sát trong suốt quá trình học, đảm bảo sự quan tâm và hỗ trợ tối đa.
-
-          *   **Chương trình giảng dạy linh hoạt:**
+          <div style="text-align: left">***khóa học nối mi, Brow Lamination và
+          uốn mi******Điểm nổi bật của khóa học:***   **Học 1:1 với giáo viên:**
+          Bạn sẽ được Vanci trực tiếp hướng dẫn và kèm sát trong suốt quá trình
+          học, đảm bảo sự quan tâm và hỗ trợ tối đa.*   **Chương trình giảng dạy
+          linh hoạt:**
 
               *   Thời khóa biểu được thiết kế phù hợp với lịch trình của từng học viên, tạo sự thoải mái và hiệu quả cao nhất.
 
@@ -417,11 +416,22 @@ sections:
 
           *   **Hỗ trợ mẫu thực hành:**
 
-              *   Học viên được hỗ trợ tuyển mẫu thực hành xuyên suốt khóa học, không giới hạn số lượng và hoàn toàn miễn phí.
+
+          *   Học viên được hỗ trợ tuyển mẫu thực hành xuyên suốt khóa học,
+          không giới hạn số lượng và hoàn toàn miễn phí.
+
 
           *   **Cam kết chất lượng:**
 
-              *   Vanci cam kết học viên sẽ nắm vững kiến thức và kỹ thuật, tự tin hành nghề sau khi hoàn thành khóa học.**Các dịch vụ được đào tạo:***   **Nối mi:**
+
+          *   Vanci cam kết học viên sẽ nắm vững kiến thức và kỹ thuật, tự tin
+          hành nghề sau khi hoàn thành khóa học.
+
+
+          *   **Các dịch vụ được đào tạo:**
+
+
+          *   **Nối mi:**
 
               *   Các kỹ thuật nối mi từ cơ bản đến nâng cao, các kiểu mi hot trend hiện nay.
 
@@ -431,7 +441,7 @@ sections:
 
           *   **Uốn mi (Lash Lift):**
 
-              *   Các kỹ thuật uốn mi thịnh hành như Lash Lift, mi mắt ướt, mi cong Thái, mi cong Foxy.**Ưu đãi:***   Liên hệ Vanci ngay để nhận chương trình khuyến mãi hấp dẫn cho khóa học tháng này.**Tại sao nên chọn khóa học này?***   Được đào tạo bởi chuyên gia có kinh nghiệm.
+              *   Các kỹ thuật uốn mi thịnh hành như Lash Lift, mi mắt ướt, mi cong Thái, mi cong Foxy.**Ưu đãi:**\*   Liên hệ Vanci ngay để nhận chương trình khuyến mãi hấp dẫn cho khóa học tháng này.**Tại sao nên chọn khóa học này?**\*   Được đào tạo bởi chuyên gia có kinh nghiệm.
 
           *   Môi trường học tập chuyên nghiệp, thân thiện.
 
