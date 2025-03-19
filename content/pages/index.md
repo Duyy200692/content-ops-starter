@@ -465,7 +465,8 @@ sections:
 
           Nếu bạn đang tìm kiếm một khóa học nối mi, Brow Lamination và uốn mi
           chất lượng, đây là một lựa chọn đáng cân nhắc.
-        features: []
+        features:
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
