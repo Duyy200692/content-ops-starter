@@ -398,7 +398,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Professional
         price: Nhận tư vấn
         details: No credit card required
         description: >+
