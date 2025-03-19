@@ -402,56 +402,71 @@ sections:
         price: Nhận tư vấn
         details: No credit card required
         description: >+
-          <div style="text-align: left">***khóa học nối mi, Brow Lamination và
-          uốn mi******Điểm nổi bật của khóa học:***   **Học 1:1 với giáo viên:**
-          Bạn sẽ được Vanci trực tiếp hướng dẫn và kèm sát trong suốt quá trình
-          học, đảm bảo sự quan tâm và hỗ trợ tối đa.*   **Chương trình giảng dạy
-          linh hoạt:**
+          <div style="text-align: left">```
 
-              *   Thời khóa biểu được thiết kế phù hợp với lịch trình của từng học viên, tạo sự thoải mái và hiệu quả cao nhất.
+          khóa học nối mi, Brow Lamination và uốn miĐiểm nổi bật của khóa học:
 
-          *   **Kết hợp lý thuyết và thực hành:**
+          ``````
 
-              *   Lộ trình học tập rõ ràng, giúp bạn nắm vững kiến thức và kỹ năng một cách bài bản.
+          *   Thời khóa biểu được thiết kế phù hợp với lịch trình của từng học
+          viên, tạo sự thoải mái và hiệu quả cao nhất.
 
-          *   **Hỗ trợ mẫu thực hành:**
+          ``````
 
+          Lộ trình học tập rõ ràng, giúp bạn nắm vững kiến thức và kỹ năng một
+          cách bài bản.
 
-          *   Học viên được hỗ trợ tuyển mẫu thực hành xuyên suốt khóa học,
-          không giới hạn số lượng và hoàn toàn miễn phí.
+          ``````
 
+          Hỗ trợ mẫu thực hành:
 
-          *   **Cam kết chất lượng:**
+          ``````
 
+          Học viên được hỗ trợ tuyển mẫu thực hành xuyên suốt khóa học, không
+          giới hạn số lượng và hoàn toàn miễn phí.
 
-          *   Vanci cam kết học viên sẽ nắm vững kiến thức và kỹ thuật, tự tin
-          hành nghề sau khi hoàn thành khóa học.
+          ``````
 
+          Cam kết chất lượng:
 
-          *   **Các dịch vụ được đào tạo:**
+          ``````
 
+          Vanci cam kết học viên sẽ nắm vững kiến thức và kỹ thuật, tự tin hành
+          nghề sau khi hoàn thành khóa học.
 
-          *   **Nối mi:**
+          ``````
 
-              *   Các kỹ thuật nối mi từ cơ bản đến nâng cao, các kiểu mi hot trend hiện nay.
+          Các dịch vụ được đào tạo:
 
-          *   **Brow Lamination (Định hình chân mày):**
+          ``````
 
-              *   Kỹ thuật tạo dáng chân mày vào nếp, tạo độ dày và sắc nét.
+          Các kỹ thuật nối mi từ cơ bản đến nâng cao, các kiểu mi hot trend hiện
+          nay.
 
-          *   **Uốn mi (Lash Lift):**
+          ``````
 
-              *   Các kỹ thuật uốn mi thịnh hành như Lash Lift, mi mắt ướt, mi cong Thái, mi cong Foxy.**Ưu đãi:**\*   Liên hệ Vanci ngay để nhận chương trình khuyến mãi hấp dẫn cho khóa học tháng này.**Tại sao nên chọn khóa học này?**\*   Được đào tạo bởi chuyên gia có kinh nghiệm.
+          Kỹ thuật tạo dáng chân mày vào nếp, tạo độ dày và sắc nét.
 
-          *   Môi trường học tập chuyên nghiệp, thân thiện.
+          ``````
 
+          Các kỹ thuật uốn mi thịnh hành như Lash Lift, mi mắt ướt, mi cong
+          Thái, mi cong Foxy.
 
-          *   Cơ hội thực hành trên mẫu thật, nâng cao tay nghề.
+          ``````
 
+          Môi trường học tập chuyên nghiệp, thân thiện.
 
-          *   Hỗ trợ sau khóa học, giúp bạn tự tin khởi nghiệp.Nếu bạn đang tìm
-          kiếm một khóa học nối mi, Brow Lamination và uốn mi chất lượng, đây là
-          một lựa chọn đáng cân nhắc.</div>
+          ``````
+
+          Cơ hội thực hành trên mẫu thật, nâng cao tay nghề.
+
+          ``````
+
+          Hỗ trợ sau khóa học, giúp bạn tự tin khởi nghiệp.Nếu bạn đang tìm kiếm
+          một khóa học nối mi, Brow Lamination và uốn mi chất lượng, đây là một
+          lựa chọn đáng cân nhắc.
+
+          ```</div>
 
         features: []
         image:
