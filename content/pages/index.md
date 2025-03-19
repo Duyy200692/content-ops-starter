@@ -407,9 +407,6 @@ sections:
 
         features:
           - Cam kết các bạn sẽ nắm vững kiến thức và kỹ thuật. Tự tin làm nghề
-          - >-
-            hổ trợ tuyển mẫu thực hành xuyên suốt trong khoá học, không giới hạn
-            mẫu thực hành, không tốn phí mẫu.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
