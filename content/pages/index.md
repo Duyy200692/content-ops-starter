@@ -474,7 +474,7 @@ sections:
         actions:
           - type: Button
             label: contact us
-            url: /
+            url: '/https://www.facebook.com/profile.php?id=61571145550252'
             icon: arrowRight
             iconPosition: right
             style: secondary
