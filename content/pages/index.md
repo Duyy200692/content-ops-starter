@@ -200,9 +200,27 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |+
+      **Các dịch vụ chính:**
+
+      *   **Điêu khắc siêu sợi:**
+
+          *   Đây là kỹ thuật tạo dáng lông mày tự nhiên nhất hiện nay, sử dụng dao khắc chuyên dụng để tạo từng sợi lông mày giả xen kẽ với lông mày thật.
+
+          *   Phù hợp với những người có lông mày thưa, nhạt màu hoặc muốn tạo dáng lông mày sắc nét, tự nhiên.
+
+      *   **Phun mày tản bột/chạm hạt:**
+
+          *   Kỹ thuật này sử dụng máy phun xăm với đầu kim siêu nhỏ để đưa mực vào lớp thượng bì của da, tạo hiệu ứng lông mày mịn màng như trang điểm bằng bột hoặc hiệu ứng chạm hạt 3D.
+
+          *   Phù hợp với những người thích dáng lông mày đậm nét, có độ chuyển màu tự nhiên.
+
+      *   **Phun môi by Lip:**
+
+          *   Đây là kỹ thuật phun môi độc quyền, giúp tạo màu môi tươi tắn, căng mọng và bền màu.
+
+          *   Có nhiều màu sắc và kỹ thuật phun khác nhau để phù hợp với từng khuôn môi và sở thích của khách hàng.
+
     actions:
       - label: Get started
         url: /
@@ -231,6 +249,42 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: "\bĐón Hè Rực Rỡ"
+      color: text-dark
+    subtitle: yêu chiều bản thân
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/Frame 43.png
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -241,198 +295,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
-    items:
-      - title: >-
-          "Một nhà thiết kế biết rằng anh ta đã đạt được sự hoàn hảo không phải
-          khi không còn gì để thêm, mà là khi không còn gì để lấy đi."
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: List of features here
       color: text-primary
@@ -579,21 +441,35 @@ sections:
         title: Professional
         price: $99
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        description: |+
+          ****
+
+          *   **Điêu khắc siêu sợi:**
+
+              *   Đây là kỹ thuật tạo dáng lông mày tự nhiên nhất hiện nay, sử dụng dao khắc chuyên dụng để tạo từng sợi lông mày giả xen kẽ với lông mày thật.
+
+              *   Phù hợp với những người có lông mày thưa, nhạt màu hoặc muốn tạo dáng lông mày sắc nét, tự nhiên.
+
+          *   **Phun mày tản bột/chạm hạt:**
+
+              *   Kỹ thuật này sử dụng máy phun xăm với đầu kim siêu nhỏ để đưa mực vào lớp thượng bì của da, tạo hiệu ứng lông mày mịn màng như trang điểm bằng bột hoặc hiệu ứng chạm hạt 3D.
+
+              *   Phù hợp với những người thích dáng lông mày đậm nét, có độ chuyển màu tự nhiên.
+
+          *   **Phun môi by Lip:**
+
+              *   Đây là kỹ thuật phun môi độc quyền, giúp tạo màu môi tươi tắn, căng mọng và bền màu.
+
+              *   Có nhiều màu sắc và kỹ thuật phun khác nhau để phù hợp với từng khuôn môi và sở thích của khách hàng.
+
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
         actions:
           - type: Button
-            label: Try for free
+            label: contact us
             url: /
             icon: arrowRight
             iconPosition: right
@@ -611,15 +487,49 @@ sections:
         title: Enterprise
         price: Custom
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+        description: >+
+          **Dịch vụ nối mi, uốn mi và định hình chân mày chuyên nghiệp mà bạn
+          đang quan tâm:**
+
+
+          **1. Nối mi:**
+
+
+          *   **Đa dạng kiểu dáng:**
+
+              *   Cung cấp nhiều kiểu mi từ tự nhiên đến ấn tượng, phù hợp với mọi khuôn mặt và dáng mắt.
+
+              *   Tư vấn và thiết kế dáng mi độc đáo, cập nhật các xu hướng nối mi hot nhất hiện nay.
+
+          *   **Kỹ thuật chuyên nghiệp:**
+
+              *   Sử dụng kỹ thuật nối mi hiện đại, đảm bảo độ bền và an toàn cho mi thật.
+
+              *   Lựa chọn chất liệu mi cao cấp, mềm mại, không gây khó chịu.
+
+          **2. Uốn mi (Lash Lift):**
+
+
+          *   **Các kiểu uốn mi thịnh hành:**
+
+              *   Uốn mi Lash Lift: Giúp nâng mi cong tự nhiên, tạo hiệu ứng mắt to tròn.
+
+              *   Mi mắt ướt: Tạo vẻ đẹp quyến rũ, mơ màng.
+
+              *   Mi cong Thái: Mang đến hàng mi cong vút, sắc sảo.
+
+              *   Mi cong Foxy: Tạo điểm nhấn ấn tượng, cá tính cho đôi mắt.
+
+          **3. Định hình chân mày (Brow Lamination):**
+
+
+          *   **Tạo dáng chân mày hoàn hảo:**
+
+              *   Giúp định hình chân mày vào nếp, tạo độ dày và sắc nét.
+
+              *   Phù hợp với mọi dáng chân mày, kể cả chân mày thưa, không đều.
+
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
