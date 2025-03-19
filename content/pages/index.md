@@ -418,9 +418,9 @@ sections:
           **Kết hợp lý thuyết và thực hành:**
 
           Lộ trình học tập rõ ràng, giúp bạn nắm vững kiến thức và kỹ năng một
-          cách bài bản.**
+          cách bài bản.\*\*
 
-          Hỗ trợ mẫu thực hành:**
+          Hỗ trợ mẫu thực hành:
 
           Học viên được hỗ trợ tuyển mẫu thực hành xuyên suốt khóa học, không
           giới hạn số lượng và hoàn toàn miễn phí.
@@ -429,7 +429,6 @@ sections:
 
           Vanci cam kết học viên sẽ nắm vững kiến thức và kỹ thuật, tự tin hành
           nghề sau khi hoàn thành khóa học.
-
 
 
           **Các dịch vụ được đào tạo:**
