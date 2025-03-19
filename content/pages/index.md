@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '/https://www.facebook.com/profile.php?id=61571145550252'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -26,7 +26,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: '/https://www.vanci.beauty/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -398,25 +398,74 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Developers
-        price: $300
+        title: Professional
+        price: Nhận tư vấn
         details: No credit card required
-        description: >+
-          <div style="text-align: left">KHOÁ HỌC NỐI MI - BROW LAMINATION - UỐN
-          MI![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/25aa.png)
-          Học 1:1 với giáo viên, chính Vanci sẽ trực tiếp đứng lớp hướng dẫn và
-          kèm sát các bạn trong suốt khoá học. 
+        description: >
+          **Điểm nổi bật của khóa học:**
 
 
-          </div>
+          **Học 1:1 với giáo viên:**
 
-        features:
-          - ' Chương trình giảng dạy linh hoạt theo thời khoá biểu từng học viên.'
-          - ' Học lý thuyết song song với thực hành, lộ trình học tập rất rõ ràng.'
-          - >-
-            hổ trợ tuyển mẫu thực hành xuyên suốt trong khoá học, không giới hạn
-            mẫu thực hành, không tốn phí mẫu.
-          - Cam kết các bạn sẽ nắm vững kiến thức và kỹ thuật. Tự tin làm nghề
+          Bạn sẽ được Vanci trực tiếp hướng dẫn và kèm sát trong suốt quá trình
+          học, đảm bảo sự quan tâm và hỗ trợ tối đa.
+
+          Chương trình giảng dạy linh hoạt:
+
+          Thời khóa biểu được thiết kế phù hợp với lịch trình của từng học viên,
+          tạo sự thoải mái và hiệu quả cao nhất.
+
+          **Kết hợp lý thuyết và thực hành:**
+
+          Lộ trình học tập rõ ràng, giúp bạn nắm vững kiến thức và kỹ năng một
+          cách bài bản.\*\*
+
+          Hỗ trợ mẫu thực hành:
+
+          Học viên được hỗ trợ tuyển mẫu thực hành xuyên suốt khóa học, không
+          giới hạn số lượng và hoàn toàn miễn phí.
+
+          **Cam kết chất lượng:**
+
+          Vanci cam kết học viên sẽ nắm vững kiến thức và kỹ thuật, tự tin hành
+          nghề sau khi hoàn thành khóa học.
+
+
+          **Các dịch vụ được đào tạo:**
+
+
+          **Nối mi:** Các kỹ thuật nối mi từ cơ bản đến nâng cao, các kiểu mi
+          hot trend hiện nay.
+
+          Brow Lamination (Định hình chân mày):
+
+          Kỹ thuật tạo dáng chân mày vào nếp, tạo độ dày và sắc nét.
+
+          **Uốn mi (Lash Lift):**
+
+          Các kỹ thuật uốn mi thịnh hành như Lash Lift, mi mắt ướt, mi cong
+          Thái, mi cong Foxy.
+
+          **Ưu đãi:**
+
+
+          Liên hệ Vanci ngay để nhận chương trình khuyến mãi hấp dẫn cho khóa
+          học tháng này.
+
+          Tại sao nên chọn khóa học này?
+
+
+          Được đào tạo bởi chuyên gia có kinh nghiệm.
+
+          Môi trường học tập chuyên nghiệp, thân thiện.
+
+          Cơ hội thực hành trên mẫu thật, nâng cao tay nghề.
+
+          Hỗ trợ sau khóa học, giúp bạn tự tin khởi nghiệp.
+
+          Nếu bạn đang tìm kiếm một khóa học nối mi, Brow Lamination và uốn mi
+          chất lượng, đây là một lựa chọn đáng cân nhắc.
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -424,7 +473,7 @@ sections:
         actions:
           - type: Button
             label: contact us
-            url: /
+            url: '/https://www.facebook.com/profile.php?id=61571145550252'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -439,7 +488,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Professional
-        price: $99
+        price: Nhân tư vấn
         details: per month
         description: |+
           ****
@@ -470,7 +519,7 @@ sections:
         actions:
           - type: Button
             label: contact us
-            url: /
+            url: '/https://www.facebook.com/profile.php?id=61571145550252'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -484,8 +533,8 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
-        price: Custom
+        title: Professional
+        price: Nhận tư vấn
         details: per month
         description: >+
           **Dịch vụ nối mi, uốn mi và định hình chân mày chuyên nghiệp mà bạn
@@ -537,7 +586,7 @@ sections:
         actions:
           - type: Button
             label: Contact us
-            url: /
+            url: 'https://www.facebook.com/profile.php?id=61571145550252/'
             icon: arrowRight
             iconPosition: right
             style: secondary
