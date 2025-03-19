@@ -439,7 +439,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Professional
-        price: $99
+        price: Nhân tư vấn
         details: per month
         description: |+
           ****
