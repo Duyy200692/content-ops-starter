@@ -520,12 +520,6 @@ sections:
 
               *   Mi cong Foxy: Tạo điểm nhấn ấn tượng, cá tính cho đôi mắt.
 
-          *   **Ưu điểm:**
-
-              *   Không gây tổn hại cho mi thật.
-
-              *   Hiệu quả duy trì lâu dài.
-
           **3. Định hình chân mày (Brow Lamination):**
 
 
@@ -534,12 +528,6 @@ sections:
               *   Giúp định hình chân mày vào nếp, tạo độ dày và sắc nét.
 
               *   Phù hợp với mọi dáng chân mày, kể cả chân mày thưa, không đều.
-
-          *   **Lợi ích:**
-
-              *   Tiết kiệm thời gian trang điểm.
-
-              *   Mang lại vẻ đẹp tự nhiên, thanh lịch.
 
         features: []
         image:
