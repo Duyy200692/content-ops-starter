@@ -401,11 +401,11 @@ sections:
         title: Professional
         price: Nhận tư vấn
         details: No credit card required
-        description: >-
-          Điểm nổi bật của khóa học:
+        description: >
+          **Điểm nổi bật của khóa học:**
 
 
-          Học 1:1 với giáo viên:
+          **Học 1:1 với giáo viên:**
 
           Bạn sẽ được Vanci trực tiếp hướng dẫn và kèm sát trong suốt quá trình
           học, đảm bảo sự quan tâm và hỗ trợ tối đa.
@@ -415,39 +415,39 @@ sections:
           Thời khóa biểu được thiết kế phù hợp với lịch trình của từng học viên,
           tạo sự thoải mái và hiệu quả cao nhất.
 
-          Kết hợp lý thuyết và thực hành:
+          **Kết hợp lý thuyết và thực hành:**
 
           Lộ trình học tập rõ ràng, giúp bạn nắm vững kiến thức và kỹ năng một
-          cách bài bản.
+          cách bài bản.**
 
-          Hỗ trợ mẫu thực hành:
+          Hỗ trợ mẫu thực hành:**
 
           Học viên được hỗ trợ tuyển mẫu thực hành xuyên suốt khóa học, không
           giới hạn số lượng và hoàn toàn miễn phí.
 
-          Cam kết chất lượng:
+          **Cam kết chất lượng:**
 
           Vanci cam kết học viên sẽ nắm vững kiến thức và kỹ thuật, tự tin hành
           nghề sau khi hoàn thành khóa học.
 
-          Các dịch vụ được đào tạo:
 
 
-          Nối mi:
+          **Các dịch vụ được đào tạo:**
 
-          Các kỹ thuật nối mi từ cơ bản đến nâng cao, các kiểu mi hot trend hiện
-          nay.
+
+          **Nối mi:** Các kỹ thuật nối mi từ cơ bản đến nâng cao, các kiểu mi
+          hot trend hiện nay.
 
           Brow Lamination (Định hình chân mày):
 
           Kỹ thuật tạo dáng chân mày vào nếp, tạo độ dày và sắc nét.
 
-          Uốn mi (Lash Lift):
+          **Uốn mi (Lash Lift):**
 
           Các kỹ thuật uốn mi thịnh hành như Lash Lift, mi mắt ướt, mi cong
           Thái, mi cong Foxy.
 
-          Ưu đãi:
+          **Ưu đãi:**
 
 
           Liên hệ Vanci ngay để nhận chương trình khuyến mãi hấp dẫn cho khóa
