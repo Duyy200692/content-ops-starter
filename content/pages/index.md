@@ -542,7 +542,6 @@ sections:
               *   Mang lại vẻ đẹp tự nhiên, thanh lịch.
 
         features:
-          - Feature two
           - Feature three
           - Feature four
           - Feature five
