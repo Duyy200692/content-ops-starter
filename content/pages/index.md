@@ -469,7 +469,7 @@ sections:
           altText: Pricing plan 2
         actions:
           - type: Button
-            label: "\bContant"
+            label: contact us
             url: /
             icon: arrowRight
             iconPosition: right
