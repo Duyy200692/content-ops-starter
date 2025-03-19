@@ -402,8 +402,8 @@ sections:
         price: Nhận tư vấn
         details: No credit card required
         description: >+
-          <div style="text-align: left">khóa học nối mi, Brow Lamination và uốn
-          mi</div>
+          <div style="text-align: left">**khóa học nối mi, Brow Lamination và
+          uốn mi**</div>
 
         features:
           - Cam kết các bạn sẽ nắm vững kiến thức và kỹ thuật. Tự tin làm nghề
