@@ -487,9 +487,60 @@ sections:
         title: Enterprise
         price: Custom
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          **Dịch vụ nối mi, uốn mi và định hình chân mày chuyên nghiệp mà bạn
+          đang quan tâm:**
+
+
+          **1. Nối mi:**
+
+
+          *   **Đa dạng kiểu dáng:**
+
+              *   Cung cấp nhiều kiểu mi từ tự nhiên đến ấn tượng, phù hợp với mọi khuôn mặt và dáng mắt.
+
+              *   Tư vấn và thiết kế dáng mi độc đáo, cập nhật các xu hướng nối mi hot nhất hiện nay.
+
+          *   **Kỹ thuật chuyên nghiệp:**
+
+              *   Sử dụng kỹ thuật nối mi hiện đại, đảm bảo độ bền và an toàn cho mi thật.
+
+              *   Lựa chọn chất liệu mi cao cấp, mềm mại, không gây khó chịu.
+
+          **2. Uốn mi (Lash Lift):**
+
+
+          *   **Các kiểu uốn mi thịnh hành:**
+
+              *   Uốn mi Lash Lift: Giúp nâng mi cong tự nhiên, tạo hiệu ứng mắt to tròn.
+
+              *   Mi mắt ướt: Tạo vẻ đẹp quyến rũ, mơ màng.
+
+              *   Mi cong Thái: Mang đến hàng mi cong vút, sắc sảo.
+
+              *   Mi cong Foxy: Tạo điểm nhấn ấn tượng, cá tính cho đôi mắt.
+
+          *   **Ưu điểm:**
+
+              *   Không gây tổn hại cho mi thật.
+
+              *   Hiệu quả duy trì lâu dài.
+
+          **3. Định hình chân mày (Brow Lamination):**
+
+
+          *   **Tạo dáng chân mày hoàn hảo:**
+
+              *   Giúp định hình chân mày vào nếp, tạo độ dày và sắc nét.
+
+              *   Phù hợp với mọi dáng chân mày, kể cả chân mày thưa, không đều.
+
+          *   **Lợi ích:**
+
+              *   Tiết kiệm thời gian trang điểm.
+
+              *   Mang lại vẻ đẹp tự nhiên, thanh lịch.
+
         features:
           - Feature one
           - Feature two
