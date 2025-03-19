@@ -234,7 +234,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "\bĐón Hè"
+      text: "\bĐón Hè Rực Rỡ"
       color: text-dark
     subtitle: Be in good company
     text: >
