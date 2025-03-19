@@ -541,8 +541,7 @@ sections:
 
               *   Mang lại vẻ đẹp tự nhiên, thanh lịch.
 
-        features:
-          - Feature five
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
