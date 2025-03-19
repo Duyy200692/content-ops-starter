@@ -485,7 +485,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Enterprise
-        price: Custom
+        price: Nhận tư vấn
         details: per month
         description: >+
           **Dịch vụ nối mi, uốn mi và định hình chân mày chuyên nghiệp mà bạn
