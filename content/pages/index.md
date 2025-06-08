@@ -233,42 +233,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: "\bĐón Hè Rực Rỡ"
-      color: text-dark
-    subtitle: yêu chiều bản thân
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/Frame 43.png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
