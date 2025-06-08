@@ -105,7 +105,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Các podcast và video của chúng tôi
     text: >
       Chào mừng bạn đến với kênh YouTube của chúng tôi, nơi chia sẻ kiến thức
       chuyên sâu và kinh nghiệm thực tế về lĩnh vực nối mi, phun xăm chân mày,
