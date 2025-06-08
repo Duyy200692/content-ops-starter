@@ -114,21 +114,7 @@ sections:
 
       Chúng tôi tập trung vào việc đào tạo học viên từ cơ bản đến nâng cao, giúp
       bạn nắm vững các kỹ thuật, bí quyết để tự tin khởi nghiệp và phát triển sự
-      nghiệp. Các podcast và video của chúng tôi sẽ đi sâu vào:
-
-      \- Kỹ thuật nối mi chuyên nghiệp
-
-      \- Phun xăm chân mày chuẩn và đẹp
-
-      \- Các dịch vụ làm đẹp khác: Mở rộng kiến thức về các xu hướng làm đẹp mới
-
-      Ngoài kỹ năng chuyên môn, chúng tôi còn chia sẻ những bài học về đạo đức
-      nghề nghiệp, cách xây dựng thương hiệu cá nhân, và tạo dựng mối quan hệ
-      tốt với khách hàng.
-
-      Chúng tôi mong muốn trở thành người bạn đồng hành đáng tin cậy trên con
-      đường chinh phục ước mơ của bạn. Hãy đăng ký kênh và bật thông báo để
-      không bỏ lỡ những bài học giá trị nhé!
+      nghiệp.
     actions: []
     media:
       title: Title of the video
