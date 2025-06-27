@@ -97,53 +97,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: vanci beauty
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Các podcast và video của chúng tôi
-    text: >
-      Chào mừng bạn đến với kênh YouTube của chúng tôi, nơi chia sẻ kiến thức
-      chuyên sâu và kinh nghiệm thực tế về lĩnh vực nối mi, phun xăm chân mày,
-      và các dịch vụ làm đẹp khác! Nếu bạn đang tìm kiếm một lộ trình vững chắc
-      để trở thành chuyên gia trong ngành, kênh này chính là dành cho bạn.
-
-      Chúng tôi tập trung vào việc đào tạo học viên từ cơ bản đến nâng cao, giúp
-      bạn nắm vững các kỹ thuật, bí quyết để tự tin khởi nghiệp và phát triển sự
-      nghiệp.
-    actions: []
-    media:
-      title: Title of the video
-      url: 'https://youtu.be/MtH1tUK4qUk'
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: DIODE LASER
       color: text-dark
