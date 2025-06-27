@@ -277,7 +277,9 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/various-tools-professional-permanent-makeup-medicine-table
+            1.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
