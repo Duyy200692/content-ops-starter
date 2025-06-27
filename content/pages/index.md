@@ -71,17 +71,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: >2+
-       Vanci\_Beauty
-
-      Chuyên Nối mi và tư vấn, thiết kế dáng mi đa dạng phù hợp với từng khuôn
-      mặt, dáng mắt, các kiểu mi từ nhẹ nhàng tự nhiên đến những kiểu mi thiết
-      kế hot nhất hiện nay.  
-
-
-      Chuyên Uốn Mi (Lash Lift), mi mắt ướt, mi cong Thái, mi cong Foxy ấn tượng
-      cá tính  Chuyên Định Hình Chân Mày (Brow Lamination)
-
+    text: >
+      Chào mừng bạn đến với thế giới làm đẹp của tôi! Tôi là Thảo Vân Phan với
+      thương hiệu vanci.beauty, một người có đam mê với việc giúp mọi người khám
+      phá và tôn vinh vẻ đẹp riêng của mình. Với những kinh nghiệm, tôi đã có cơ
+      hội làm việc với nhiều khách hàng và giúp họ đạt được những kết quả tuyệt
+      vời.
     badge:
       label: Key Benefits
       color: text-primary
