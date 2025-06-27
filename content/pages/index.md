@@ -300,7 +300,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: Nhân tư vấn
-        details: per month
+        details: ''
         description: |+
           ****
 
