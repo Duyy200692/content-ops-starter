@@ -9,16 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: ''
-    actions:
-      - label: ''
-        altText: ''
-        url: '/https://www.vanci.beauty/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/image 2.png
       altText: Unblock your team boost your time to production preview
