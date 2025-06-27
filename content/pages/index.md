@@ -209,7 +209,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: Nhận tư vấn
-        details: No credit card required
+        details: ''
         description: >
           **Điểm nổi bật của khóa học:**
 
