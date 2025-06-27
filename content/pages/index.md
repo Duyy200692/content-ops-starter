@@ -10,15 +10,6 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
-        altText: ''
-        url: '/https://www.facebook.com/profile.php?id=61571145550252'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: ''
         altText: ''
         url: '/https://www.vanci.beauty/'
