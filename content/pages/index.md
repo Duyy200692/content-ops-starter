@@ -34,12 +34,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Thao Van Phan
-    text: >
-      Chào mừng bạn đến với thế giới làm đẹp của tôi! Tôi là Thảo Vân Phan với
-      thương hiệu vanci.beauty, một người có đam mê với việc giúp mọi người khám
-      phá và tôn vinh vẻ đẹp riêng của mình. Với những kinh nghiệm, tôi đã có cơ
-      hội làm việc với nhiều khách hàng và giúp họ đạt được những kết quả tuyệt
-      vời.
+    text: >+
+      <div style="text-align: center">Chào mừng bạn đến với thế giới làm đẹp của
+      tôi! Tôi là Thảo Vân Phan với thương hiệu vanci.beauty, một người có đam
+      mê với việc giúp mọi người khám phá và tôn vinh vẻ đẹp riêng của mình. Với
+      những kinh nghiệm, tôi đã có cơ hội làm việc với nhiều khách hàng và giúp
+      họ đạt được những kết quả tuyệt vời.</div>
+
     badge:
       label: Key Benefits
       color: text-primary
