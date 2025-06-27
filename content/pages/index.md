@@ -392,7 +392,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/woman-with-eyelashes-extension-side-view.jpg
           altText: Pricing plan 3
         actions:
           - type: Button
