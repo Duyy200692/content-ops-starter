@@ -8,12 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      Chào mừng bạn đến với thế giới làm đẹp của tôi! Tôi là Thảo Vân Phan với
-      thương hiệu vanci.beauty, một người có đam mê với việc giúp mọi người khám
-      phá và tôn vinh vẻ đẹp riêng của mình. Với những kinh nghiệm, tôi đã có cơ
-      hội làm việc với nhiều khách hàng và giúp họ đạt được những kết quả tuyệt
-      vời.
+    text: ''
     actions:
       - label: Get started
         altText: ''
