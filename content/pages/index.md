@@ -346,7 +346,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: Nhận tư vấn
-        details: per month
+        details: ''
         description: >+
           **Dịch vụ nối mi, uốn mi và định hình chân mày chuyên nghiệp mà bạn
           đang quan tâm:**
