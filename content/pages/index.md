@@ -302,7 +302,7 @@ sections:
         price: Nhân tư vấn
         details: ''
         description: |+
-          ****
+
 
           *   **Điêu khắc siêu sợi:**
 
