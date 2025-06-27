@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Vanci.beauty
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Thao Van Phan
