@@ -4,44 +4,17 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Vanci.beauty
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Thao Van Phan
-    text: >
-      Chào mừng bạn đến với thế giới làm đẹp của tôi! Tôi là Thảo Vân Phan với
-      thương hiệu vanci.beauty, một người có đam mê với việc giúp mọi người khám
-      phá và tôn vinh vẻ đẹp riêng của mình. Với những kinh nghiệm, tôi đã có cơ
-      hội làm việc với nhiều khách hàng và giúp họ đạt được những kết quả tuyệt
-      vời.
-    actions:
-      - label: Get started
-        altText: ''
-        url: '/https://www.facebook.com/profile.php?id=61571145550252'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: '/https://www.vanci.beauty/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    subtitle: ''
+    text: ''
+    actions: []
     media:
-      url: /images/IMG_2440.jpeg
+      url: /images/Frame 1.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -53,55 +26,21 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Vanci.beauty
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: >2+
-       Vanci\_Beauty
+    subtitle: Thao Van Phan
+    text: >+
+      <div style="text-align: center">Chào mừng bạn đến với thế giới làm đẹp của
+      tôi! Tôi là Thảo Vân Phan với thương hiệu vanci.beauty, một người có đam
+      mê với việc giúp mọi người khám phá và tôn vinh vẻ đẹp riêng của mình. Với
+      những kinh nghiệm, tôi đã có cơ hội làm việc với nhiều khách hàng và giúp
+      họ đạt được những kết quả tuyệt vời.</div>
 
-      Chuyên Nối mi và tư vấn, thiết kế dáng mi đa dạng phù hợp với từng khuôn
-      mặt, dáng mắt, các kiểu mi từ nhẹ nhàng tự nhiên đến những kiểu mi thiết
-      kế hot nhất hiện nay.  
-
-
-      Chuyên Uốn Mi (Lash Lift), mi mắt ướt, mi cong Thái, mi cong Foxy ấn tượng
-      cá tính  Chuyên Định Hình Chân Mày (Brow Lamination)
-
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: Key Benefits
       color: text-primary
@@ -117,49 +56,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: DIODE LASER
       color: text-dark
@@ -183,7 +79,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Frame 46.png
+      url: /images/475143960_3436182069852263_1546861041237642350_n.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -236,7 +132,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Screenshot 2024-11-15 135504.png
+      url: /images/Screen Shot 2025-06-27 at 21.39.54.png
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -249,158 +145,20 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: "\bĐón Hè Rực Rỡ"
-      color: text-dark
-    subtitle: yêu chiều bản thân
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/Frame 43.png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-          url: /images/Screenshot 2024-11-15 132350.png
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/Screenshot 2024-11-15 132404.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/Screenshot 2024-11-15 132422.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: "\bVanci Beauty & Academy"
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Thao van Phan
     plans:
       - type: PricingPlan
         title: Professional
         price: Nhận tư vấn
-        details: No credit card required
+        details: ''
         description: >
           **Điểm nổi bật của khóa học:**
 
@@ -468,7 +226,9 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/various-tools-professional-permanent-makeup-medicine-table
+            1.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
@@ -489,9 +249,9 @@ sections:
       - type: PricingPlan
         title: Professional
         price: Nhân tư vấn
-        details: per month
+        details: ''
         description: |+
-          ****
+
 
           *   **Điêu khắc siêu sợi:**
 
@@ -514,7 +274,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/beautician-doing-eyebrow-treatment-her-female-client 1.jpg
           altText: Pricing plan 2
         actions:
           - type: Button
@@ -535,7 +295,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: Nhận tư vấn
-        details: per month
+        details: ''
         description: >+
           **Dịch vụ nối mi, uốn mi và định hình chân mày chuyên nghiệp mà bạn
           đang quan tâm:**
@@ -581,7 +341,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/woman-with-eyelashes-extension-side-view.jpg
           altText: Pricing plan 3
         actions:
           - type: Button
@@ -605,65 +365,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
