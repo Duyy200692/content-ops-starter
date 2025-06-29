@@ -148,7 +148,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: "\bAcademy"
+      text: "\bVanci Beauty & Academy"
       color: text-dark
       styles:
         self:
