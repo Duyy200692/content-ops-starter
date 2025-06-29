@@ -79,7 +79,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Frame 46.png
+      url: /images/475143960_3436182069852263_1546861041237642350_n.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
