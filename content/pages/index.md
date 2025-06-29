@@ -153,7 +153,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Vanci Beauty & Academy
     plans:
       - type: PricingPlan
         title: Professional
