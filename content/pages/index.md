@@ -148,7 +148,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: "\bACADAMY"
+      text: "\bAcademy"
       color: text-dark
       styles:
         self:
