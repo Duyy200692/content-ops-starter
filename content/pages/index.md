@@ -153,7 +153,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Vanci Beauty & Academy
+    subtitle: Thao van Phan
     plans:
       - type: PricingPlan
         title: Professional
